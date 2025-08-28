@@ -343,7 +343,7 @@ section {
 }
 
 .article-container {
-    display: -ms-inline-grid;
+    display: flex;
     text-align: left;
     flex-wrap: wrap;
     flex-direction: row;
