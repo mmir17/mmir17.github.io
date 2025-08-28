@@ -354,13 +354,15 @@ section {
 article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
+    justify-content: space-evenly;
     gap: 0.5rem;
     
 }
 
 article .icon {
     cursor: default;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 
