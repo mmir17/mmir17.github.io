@@ -355,6 +355,8 @@ article {
     display: flex;
     width: 10rem;
     justify-content: space-evenly;
+    text-align: initial;
+
     gap: 0.5rem;
     
 }
@@ -363,6 +365,8 @@ article .icon {
     cursor: default;
     display: flex;
     justify-content: space-evenly;
+    text-align: initial;
+
 }
 
 
