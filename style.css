@@ -343,16 +343,13 @@ section {
 }
 
 .article-container {
-    /* display: flex;
-    /* text-align: initial; */
-    /* flex-wrap: wrap; */
-    /* flex-direction: row; */
-    /* gap: 2.5rem; */
-    /* justify-content: space-around;  */
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 equal columns */
-    gap: 2.5rem 4rem; /* row gap, column gap */
-    justify-items: center; /* center each cell horizontally */
+    display: flex;
+    text-align: initial;
+    flex-wrap: wrap;
+    flex-direction: row; 
+    gap: 2.5rem;
+    justify-content: space-around; 
+
 }
 
 
