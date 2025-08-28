@@ -343,8 +343,8 @@ section {
 }
 
 .article-container {
-    display: flex;
-    /* text-align: initial; */
+    display: -ms-inline-grid;
+    text-align: left;
     flex-wrap: wrap;
     flex-direction: row;
     gap: 2.5rem;
